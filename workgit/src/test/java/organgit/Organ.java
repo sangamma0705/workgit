@@ -3,8 +3,8 @@ package organgit;
 public class Organ {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("welcome git hub");
+		System.out.println("Organization created successfully");
+		System.out.println("Reshma successfully updated the organization");
 
 	}
 
